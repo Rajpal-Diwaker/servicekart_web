@@ -1,0 +1,5 @@
+{
+    "secret": "some-secret-shit-goes-here",
+    "port": 3012,
+    "tokenLife": 900
+}

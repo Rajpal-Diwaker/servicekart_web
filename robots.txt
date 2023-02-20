@@ -1,0 +1,7 @@
+User-agent: *
+
+
+sitemap: https://www.newage-global.com/sitemap.xml
+sitemap: https://www.newage-global.com/resources/sitemap_index.xml
+
+
